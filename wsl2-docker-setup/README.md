@@ -72,3 +72,19 @@ http://localhost:8080
 
 Você verá: Hello World from Docker!
 ---
+
+---
+
+## Estrutura do Repositório
+
+```
+.
+├── install_docker.sh
+└── README.md
+```
+
+---
+
+## Autor
+
+Criado por [@odevopsensina](https://instagram.com/odevopsensina) — conteúdo DevOps direto ao ponto.
