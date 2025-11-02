@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const PORT = 3001;
 
-app.get('/', (req, res) => {
+app.get('/api', (req, res) => {
   res.send('API principal respondendo na porta 3001');
 });
 
