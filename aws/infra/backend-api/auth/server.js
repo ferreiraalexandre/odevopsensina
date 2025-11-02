@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const PORT = 3002;
 
-app.get('/', (req, res) => {
+app.get('/auth', (req, res) => {
   res.send('API de autenticação respondendo na porta 3002');
 });
 
